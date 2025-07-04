@@ -1,0 +1,23 @@
+# Ignore Visual Studio folders
+.vs/
+bin/
+obj/
+packages/
+*.user
+*.suo
+*.vscode/
+
+# Ignore build artifacts
+*.exe
+*.dll
+*.pdb
+*.cache
+
+# Ignore config files that shouldn't be shared
+*.dbmdl
+*.log
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.swp

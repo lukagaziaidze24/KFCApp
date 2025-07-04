@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KFCApp", "KFCApp.csproj", "{9C293E76-CCE2-400D-BE2D-9B101CFAD794}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KFCApp.Tests", "..\KFCApp.Tests\KFCApp.Tests.csproj", "{DECFB054-A8C1-4FFF-82D7-16253638139F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C293E76-CCE2-400D-BE2D-9B101CFAD794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C293E76-CCE2-400D-BE2D-9B101CFAD794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C293E76-CCE2-400D-BE2D-9B101CFAD794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C293E76-CCE2-400D-BE2D-9B101CFAD794}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DECFB054-A8C1-4FFF-82D7-16253638139F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DECFB054-A8C1-4FFF-82D7-16253638139F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DECFB054-A8C1-4FFF-82D7-16253638139F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DECFB054-A8C1-4FFF-82D7-16253638139F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32AEAE85-1391-4861-949E-BC1D3B7172E3}
+	EndGlobalSection
+EndGlobal
