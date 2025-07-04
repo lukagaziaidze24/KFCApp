@@ -7,10 +7,8 @@ This document describes all available endpoints for the KFC Backend Application 
 ## 📌 Base URL
 
 ```
-https://localhost:[PORT]/
+https://localhost:44324/
 ```
-
-> Replace [PORT] with your configured local server port.
 
 ---
 
